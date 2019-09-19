@@ -1,5 +1,5 @@
 export default {
-  apiKey: "AIzaSyDN1XfkfDShkGiARoeyCLggh771dhTdiu8",
+  apiKey: "APIKEYHERE",
   authDomain: "traversy-firebase.firebaseapp.com",
   databaseURL: "https://traversy-firebase.firebaseio.com",
   projectId: "traversy-firebase",
